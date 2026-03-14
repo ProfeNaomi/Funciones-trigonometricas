@@ -1,0 +1,5 @@
+{
+  "name": "Explorador de Funciones Trigonométricas",
+  "description": "Una aplicación interactiva para visualizar y entender las funciones trigonométricas (seno, coseno, tangente) y el círculo unitario.",
+  "requestFramePermissions": []
+}
